@@ -67,7 +67,7 @@ div.warning .alert__container::before {
     margin-bottom: 12px;
 }
 
-.alert__details p: first-child {
+.alert__details p:first-child {
     font-size: 16px;
     font-weigth: bold;
 }
