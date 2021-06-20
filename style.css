@@ -95,7 +95,7 @@ button.[class*="warning"] {
    font-style: italic;
 }
 
-h3.dark-mode + .alert {
-   text-color: white;
+h3.dark-mode ~ .alert {
+   color: white;
    background-color: #393939;
 }
