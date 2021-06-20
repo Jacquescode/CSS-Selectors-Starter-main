@@ -43,18 +43,18 @@ button {
   display: flex;
 }
 
-.alert-container::before {
+.alert__container::before {
     content: "" ;
     min-width: 6px;
     background-color: #0090d7;
     border-radius: 50px;
 }
 
-div.danger .alert-container::before {
+div.danger .alert__container::before {
     background-color: #d20d38; 
 }
 
-div.warning .alert-container::before {
+div.warning .alert__container::before {
     background-color: #d20d38;
 }
 
