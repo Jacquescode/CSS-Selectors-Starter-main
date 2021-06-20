@@ -68,8 +68,8 @@ div.warning .alert__container::before {
 }
 
 .alert__details p: first-child {
-    font-sive: 16px;
-    font-weight: bold;
+    font-size: 16px;
+    font-weigth: bold;
 }
 
 button[disabled] {
